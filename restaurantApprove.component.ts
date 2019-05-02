@@ -1,11 +1,11 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+
+  templateUrl: './restaurantApprove.component.html',
+  styleUrls: ['./restaurantApprove.component.css']
 })
-export class AppComponent {
+export class RestaurantApproveComponent {
   
 
   orders=[{ 
